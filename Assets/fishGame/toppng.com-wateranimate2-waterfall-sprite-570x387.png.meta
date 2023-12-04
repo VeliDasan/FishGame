@@ -1,0 +1,247 @@
+fileFormatVersion: 2
+guid: 095037ecb8550594f982439b4e29651a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: toppng.com-wateranimate2-waterfall-sprite-570x387_1
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 320
+        width: 115
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 796011eefcf618d46b94051099e309a9
+      internalID: -878327005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-wateranimate2-waterfall-sprite-570x387_3
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 320
+        width: 115
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08afc0cf5917f544baaf35878341b877
+      internalID: -1709709110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-wateranimate2-waterfall-sprite-570x387_5
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 320
+        width: 120
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b3acadf0f8f1de4f9f1a817420bf761
+      internalID: 206963696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-wateranimate2-waterfall-sprite-570x387_6
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 320
+        width: 115
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c93abf83ffb5e8747b954d75a7dfdf4c
+      internalID: 345309114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      toppng.com-wateranimate2-waterfall-sprite-570x387_25: 2065307413
+      toppng.com-wateranimate2-waterfall-sprite-570x387_24: 979746446
+      toppng.com-wateranimate2-waterfall-sprite-570x387_5: 206963696
+      toppng.com-wateranimate2-waterfall-sprite-570x387_7: -1226988390
+      toppng.com-wateranimate2-waterfall-sprite-570x387_2: 1295076346
+      toppng.com-wateranimate2-waterfall-sprite-570x387_3: -1709709110
+      toppng.com-wateranimate2-waterfall-sprite-570x387_0: 1754810535
+      toppng.com-wateranimate2-waterfall-sprite-570x387_11: 769872761
+      toppng.com-wateranimate2-waterfall-sprite-570x387_6: 345309114
+      toppng.com-wateranimate2-waterfall-sprite-570x387_17: -627138040
+      toppng.com-wateranimate2-waterfall-sprite-570x387_10: -1477046804
+      toppng.com-wateranimate2-waterfall-sprite-570x387_14: -1574185679
+      toppng.com-wateranimate2-waterfall-sprite-570x387_8: -354312920
+      toppng.com-wateranimate2-waterfall-sprite-570x387_12: 361600779
+      toppng.com-wateranimate2-waterfall-sprite-570x387_15: -1684614344
+      toppng.com-wateranimate2-waterfall-sprite-570x387_20: 1131485821
+      toppng.com-wateranimate2-waterfall-sprite-570x387_18: 1514994714
+      toppng.com-wateranimate2-waterfall-sprite-570x387_19: -247849363
+      toppng.com-wateranimate2-waterfall-sprite-570x387_16: 403155069
+      toppng.com-wateranimate2-waterfall-sprite-570x387_23: 1087635328
+      toppng.com-wateranimate2-waterfall-sprite-570x387_26: 3483766
+      toppng.com-wateranimate2-waterfall-sprite-570x387_22: 1912728582
+      toppng.com-wateranimate2-waterfall-sprite-570x387_9: -1785018603
+      toppng.com-wateranimate2-waterfall-sprite-570x387_28: 1779167660
+      toppng.com-wateranimate2-waterfall-sprite-570x387_13: -1205806512
+      toppng.com-wateranimate2-waterfall-sprite-570x387_27: -1794672130
+      toppng.com-wateranimate2-waterfall-sprite-570x387_1: -878327005
+      toppng.com-wateranimate2-waterfall-sprite-570x387_4: 2013276670
+      toppng.com-wateranimate2-waterfall-sprite-570x387_21: -1795476546
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
